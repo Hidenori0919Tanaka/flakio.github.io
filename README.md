@@ -1,6 +1,6 @@
 # flakio.github.io
 The project landing page for [Flakio] (https://github.com/flakio)
 
-This project was orginially created for the book "Microservices with Docker on Microsoft Azure".  This title will be available for purchase online and in bookstores soon.
+This project was orginially created for the book "Microservices with Docker on Microsoft Azure".  This title is now available for preorder on [Amazon!] (http://www.amazon.com/Microservices-Docker-Microsoft-Content-Program/dp/0672337495/ref=sr_1_4?ie=UTF8&qid=1455201512&sr=8-4&keywords=Microservices+and+docker)
 
 ![book cover](https://raw.githubusercontent.com/flakio/flakio.github.io/master/images/book-cover.jpg "Microservices with Docker on Microsoft Azure Book")
